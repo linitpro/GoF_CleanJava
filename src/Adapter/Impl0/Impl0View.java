@@ -19,6 +19,6 @@ public class Impl0View implements IView {
         var x2 = x0 + height;
         var y2 = y0 + weight;
 
-        this.shape.set(x1, y1, x2, y2;
+        this.shape.set(x1, y1, x2, y2);
     }
 }
