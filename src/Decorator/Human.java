@@ -1,7 +1,6 @@
 package Decorator;
 
 import Decorator.Decorator.ISkillDecorator;
-import org.jetbrains.annotations.Contract;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,7 +8,6 @@ import java.util.List;
 public class Human {
     private List<ISkillDecorator> decorators;
 
-    @Contract(pure = true)
     public Human() {
         this.decorators = new ArrayList<ISkillDecorator>();
     }

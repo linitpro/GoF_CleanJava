@@ -5,7 +5,6 @@ import Prototype.Elements.ImageElements.BackgroundImageElement;
 import Prototype.Elements.ImageElements.IconImageElement;
 import Prototype.Elements.TextElements.MultipleStringTextElement;
 import Prototype.Elements.TextElements.SingleStringTextElement;
-import org.jetbrains.annotations.NotNull;
 
 public class ElementPrototype {
     private SingleStringTextElement singleStringElementPrototype;
