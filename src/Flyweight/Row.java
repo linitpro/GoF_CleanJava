@@ -1,7 +1,5 @@
 package Flyweight;
 
-import javafx.css.converter.LadderConverter;
-
 import java.util.ArrayList;
 import java.util.List;
 
